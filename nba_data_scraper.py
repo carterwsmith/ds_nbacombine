@@ -44,3 +44,4 @@ while num<len(df_combine.index):
     num+=1
     
 df_final = df_combine.join(df_rookie_stats, lsuffix='_combine', rsuffix='_rookie')
+df_final.to_csv('combine_rookie_data.csv', index=False)
