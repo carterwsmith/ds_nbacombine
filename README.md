@@ -2,7 +2,7 @@
 
 ## Project Overview
 * Created a system to predict first-year player efficiency (MAE ~ -0.08 FG%) statistics from player metrics recorded at the NBA Combine. 
-* Scraped 5 years of NBA Combine and rookie-year player statistics using Python and BeautifulSoup.
+* Scraped 5 years of NBA Combine and rookie-year player statistics using Python.
 * Engineered features from NBA Combine measurements and drills to determine their correlation with actual, in-game statistics.
 * Compared accuracy of Linear and Random Forest regression models, using GridSearchCV to find the most optimal model.
 * Built a client-facing API system using Flask.
