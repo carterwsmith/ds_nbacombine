@@ -1,5 +1,7 @@
 # NBA Combine Predictive Model
 
+Shoutout Ken Jee for his Data Science Project walkthrough. For implementation see Resources Used.
+
 ## Project Overview
 * Created a system to predict first-year player efficiency (MAE ~ -0.08 FG%) statistics from player metrics recorded at the NBA Combine. 
 * Scraped 5 years of NBA Combine and rookie-year player statistics using Python.
